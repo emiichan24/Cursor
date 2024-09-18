@@ -1,0 +1,9 @@
+{
+  // ... other configurations ...
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts"
+  }
+  // ... other configurations ...
+}
